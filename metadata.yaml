@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: Les trois villes, tome 1.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24850#Lourdes
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-03-16'
 gutenberg_type: Text
